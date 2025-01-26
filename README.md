@@ -165,3 +165,31 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tavily for search API
 - Next.js team for the amazing framework
 - All contributors and users of the application
+
+## 📱 User Interface
+
+### Landing Page
+![Landing Page](screenshots/landing.png)
+The landing page features:
+- Clean, minimalist design with the DeepSearch logo
+- "Powered by Deepseek" badge
+- Main search input with a modern, floating design
+- Quick-access content templates:
+  - Podcast Outline
+  - YouTube Video Research
+  - Short Form Hook Ideas
+  - Newsletter Draft
+
+### Research Interface
+![Research Interface](screenshots/research.png)
+When conducting research, the interface shows:
+- Real-time loading indicators for:
+  - Loading Sources
+  - Reading Content
+  - Analyzing Data
+- Source cards with images and previews
+- Expandable thinking process section
+- Comprehensive analysis with citations
+- Full data view options
+
+The interface maintains a clean, professional look while providing detailed information and real-time feedback on the research process.
