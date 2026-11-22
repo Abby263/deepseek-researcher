@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "deepsearch-research-assistant",
+  "repository": "Abby263/deepseek-researcher",
+  "catalog": "candidate",
+  "availability": "request_integration",
+  "name": "DeepSearch Research Assistant",
+  "category": "Knowledge",
+  "description": "Research a topic and organize the findings.",
+  "request": "A research brief and source constraints.",
+  "response": "A summary with source references.",
+  "integration": {
+    "operation": "Generate a source-linked research brief.",
+    "readiness": "Verify the API runtime and provider configuration before listing."
+  }
+}
